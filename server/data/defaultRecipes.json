@@ -1,0 +1,467 @@
+{
+    "recettes": [
+        {
+            "id": 1,
+            "nom": "Bol protéiné à la mexicaine",
+            "src": "https://www.chefcookit.com/recipes/bol_proteines_mexicain",
+            "temps": "40",
+            "categorie": "keto",
+            "img": "/img/bol_mexicain.jpg",
+            "ingredients": [
+                {
+                    "nom": "quinoa blanc",
+                    "quantite": "150g"
+                },
+                {
+                    "nom": "fromage halloumi",
+                    "quantite": "235g"
+                },
+                {
+                    "nom": "boite de conserve de pois chiches",
+                    "quantite": 1
+                },
+                {
+                    "nom": "oignon",
+                    "quantite": 1
+                },
+                {
+                    "nom": "tomate",
+                    "quantite": 1
+                },
+                {
+                    "nom": "coriandre",
+                    "quantite": 1
+                },
+                {
+                    "nom": "mélange d'épices (poudre d'ail, chipotle, cumin)",
+                    "quantite": "15ml"
+                },
+                {
+                    "nom": "lime",
+                    "quantite": 1
+                },
+                {
+                    "nom": "crème sure",
+                    "quantite": "35ml"
+                }
+            ],
+            "outils": [
+                "Plaque de cuisson",
+                "bols",
+                "casserole",
+                "poêle"
+            ],
+            "etapes": [
+                {
+                    "ordre": 1,
+                    "titre": "Faire les pois chiches croustillants",
+                    "image": "/img/bol_mexicain_1.jpg",
+                    "texte": "Préchauffer le four à 425°F et amener une casserole d'eau à ébullition. Étendre les pois chiches sur une plaque de cuisson. Ajouter le mélange d'épices, au goût (attention! épicé) et un filet d'huile d'olive. Si désiré, utiliser une épice appréciée des enfants pour une partie des pois chiche. Saler et poivrer et cuire au four 20-25 minutes."
+                },
+                {
+                    "ordre": 2,
+                    "titre": "Cuire le quinoa",
+                    "image": "/img/bol_mexicain_2.jpg",
+                    "texte": "Rincer le quinoa. Une fois l'eau bouillante, ajouter le quinoa et cuire 14-15 minutes jusqu'à tendreté. Égoutter et réserver."
+                },
+                {
+                    "ordre": 3,
+                    "titre": "Mise en place",
+                    "image": "/img/bol_mexicain_3.jpg",
+                    "texte": "Hacher la coriandre et l'oignon. Couper la tomate en dés. Zester la lime et couper en deux. Trancher le halloumi."
+                },
+                {
+                    "ordre": 4,
+                    "titre": "Cuire le halloumi",
+                    "image": "/img/bol_mexicain_4.jpg",
+                    "texte": "Dans un poêle, à feu moyen-élevé, cuire les tranches de halloumi environ 2-3 minutes de chaque côté jusqu'à coloration."
+                },
+                {
+                    "ordre": 5,
+                    "titre": "Faire le pico de gallo et la sauce",
+                    "image": "/img/bol_mexicain_5.jpg",
+                    "texte": "Dans un bol, mélanger les tomates, les oignons, la coriandre et le jus d'une demi-lime. Bien mélanger et saler et poivrer. Dans un autre bol, mélanger la crème sure avec le zeste de lime, le jus d'une demi-lime et un filet d'huile d'olive. Saler et poivrer et bien mélanger."
+                },
+                {
+                    "ordre": 6,
+                    "titre": "Monter l'assiette",
+                    "image": "/img/bol_mexicain_6.jpg",
+                    "texte": "Servir le quinoa avec les pois chiches croustillants, le halloumi et le pico de gallo. Garnir avec la sauce. Bon appétit!"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nom": "Boeuf croustillant coréen",
+            "src": "https://chefcookit.com/recipe/boeuf-croustillant-coreen",
+            "temps": "25",
+            "categorie": "keto",
+            "img": "/img/boeuf_coreen.jpg",
+            "ingredients": [
+                {
+                    "nom": "bavette de boeuf",
+                    "quantite": 2
+                },
+                {
+                    "nom": "fécule de maïs",
+                    "quantite": "30ml"
+                },
+                {
+                    "nom": "riz jasmin",
+                    "quantite": "140g"
+                },
+                {
+                    "nom": "oignon vert",
+                    "quantite": 1
+                },
+                {
+                    "nom": "gousses d'ail",
+                    "quantite": 2
+                },
+                {
+                    "nom": "gingembre",
+                    "quantite": 1
+                },
+                {
+                    "nom": "graines de sésame grillées",
+                    "quantite": "15ml"
+                },
+                {
+                    "nom": "huile de sésame",
+                    "quantite": "15ml"
+                },
+                {
+                    "nom": "gochujang",
+                    "quantite": "30ml"
+                },
+                {
+                    "nom": "courgette verte",
+                    "quantite": 1
+                },
+                {
+                    "nom": "miel",
+                    "quantite": 1
+                },
+                {
+                    "nom": "sauce soya",
+                    "quantite": "15ml"
+                }
+            ],
+            "outils": [
+                "poêle",
+                "casserole",
+                "bols",
+                "papier absorbant"
+            ],
+            "etapes": [
+                {
+                    "ordre": 1,
+                    "titre": "Mise en place",
+                    "image": "/img/boeuf_coreen_1.jpg",
+                    "texte": "Couper les oignons verts en long morceaux et ensuite en juliennes, sur la longueur. Placer dans un bol d'eau froide pour obtenir un effet bouclé. Hacher l'ail et le gingembre. Couper les courgettes en tranches. Sur une planche séparée, couper les lanières de boeuf en plus petite lanières, si désiré."
+                },
+                {
+                    "ordre": 2,
+                    "titre": "Cuire le riz",
+                    "image": "/img/boeuf_coreen_2.jpg",
+                    "texte": "Rincer le riz. Dans une casserole, ajouter le riz et 2 tasses d'eau. Amener à ébullition. Baisser le feu et couvrir. Cuire 10-12 minutes."
+                },
+                {
+                    "ordre": 3,
+                    "titre": "Faire la sauce",
+                    "image": "/img/boeuf_coreen_3.jpg",
+                    "texte": "Dans un bol, mélanger la pâte de gochujang, l'huile de sésame, l'ail, le gingembre, le miel, la sauce soya et la moitié de graines de sésame. Bien mélanger et réserver. La pâte de gochujang est piquante. Pour les enfants qui n'y sont pas habitués, il est possible d'ajouter la pâte au mélange de sauce graduellement."
+                },
+                {
+                    "ordre": 4,
+                    "titre": "Cuire les lanières de boeuf",
+                    "image": "/img/boeuf_coreen_4.jpg",
+                    "texte": "Dans un bol, mélanger les lanières de boeuf avec la fécule de maïs. Dans une poêle profonde, à feu moyen-élevé, ajouter un généreux filet d'huile. Cuire les lanières de boeuf 3-4 minutes ou jusqu'à ce qu'elles soient croustillantes. Retirer de l'huile et placer sur du papier absorbant. Retirer l'huile de la poêle et remettre les lanières de boeuf et ajouter la sauce. Bien mélanger et cuire 1-2 minutes."
+                },
+                {
+                    "ordre": 5,
+                    "titre": "Cuire les courgettes",
+                    "image": "/img/boeuf_coreen_5.jpg",
+                    "texte": "Dans une poêle, à feu moyen-élevé, ajouter une filet d'huile. Cuire les courgettes 4-5 minutes. Saler et poivrer et ajouter le reste des graines de sésame."
+                },
+                {
+                    "ordre": 6,
+                    "titre": "Monter l'assiette",
+                    "image": "/img/boeuf_coreen_6.jpg",
+                    "texte": "Servir les lanières de boeuf croustillantes dans la sauce au gochujang avec le riz et les courgettes. Garnir avec les oignons verts. Bon appétit"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nom": "Pizza Hawaiienne au bacon",
+            "src": "https://chefcookit.com/recipe/pizza-hawaiienne-au-bacon",
+            "temps": "30",
+            "categorie": "mediterraneen",
+            "img": "/img/pizza_hawaiienne.jpg",
+            "ingredients": [
+                {
+                    "nom": "farine non-blanche",
+                    "quantite": "30ml"
+                },
+                {
+                    "nom": "pâtes à pizza",
+                    "quantite": 2
+                },
+                {
+                    "nom": "boite de conserve de pois chiches",
+                    "quantite": 1
+                },
+                {
+                    "nom": "bacon",
+                    "quantite": 6
+                },
+                {
+                    "nom": "ananas en tranches",
+                    "quantite": 0.5
+                },
+                {
+                    "nom": "poivron orange",
+                    "quantite": 0.5
+                },
+                {
+                    "nom": "mozzarella",
+                    "quantite": "80g"
+                },
+                {
+                    "nom": "persil italien fais",
+                    "quantite": 1
+                },
+                {
+                    "nom": "pâte de tomate",
+                    "quantite": "60ml"
+                }
+            ],
+            "outils": [
+                "poêle",
+                "plaque de cuisson",
+                "rouleau à pâte"
+            ],
+            "etapes": [
+                {
+                    "ordre": 1,
+                    "titre": "Adapter la recette pour vos enfants",
+                    "image": "/img/pizza_hawaiienne_1.jpg",
+                    "texte": "Afin de respecter l'apprentissage alimentaire de nos enfants, il est aussi possible de faire une recette différemment. Laisser les enfants étirer la pâte avec leurs mains avec un peu de farine, les pizzas seront imparfaites, mais encore meilleures! Aussi, ils pourront la garnir avec les éléments désirés."
+                },
+                {
+                    "ordre": 2,
+                    "titre": "Cuire le bacon",
+                    "image": "/img/pizza_hawaiienne_2.jpg",
+                    "texte": "Préchauffer le four à 425°F. Mettre les tranches de bacon dans une poêle et chauffer à feu moyen-élevé. Cuire les tranches 3-5 minutes de chaque côté jusqu’à ce qu’il soit croustillant. Déposer sur un papier absorbant."
+                },
+                {
+                    "ordre": 3,
+                    "titre": "Mise en place",
+                    "image": "/img/pizza_hawaiienne_3.jpg",
+                    "texte": "Trancher finement le poivron. Hacher le persil. Égoutter l'ananas et le couper en plus petits cubes au choix."
+                },
+                {
+                    "ordre": 4,
+                    "titre": "Rouler la pâte",
+                    "image": "/img/pizza_hawaiienne_4.jpg",
+                    "texte": "Rouler la pâte avec la farine pour faire une grosse pizza ou de plus petites pizzas individuelles. Mettre sur une plaque recouverte de papier de cuisson."
+                },
+                {
+                    "ordre": 5,
+                    "titre": "Garnir la pâte",
+                    "image": "/img/pizza_hawaiienne_5.jpg",
+                    "texte": "Mélanger la pâte de tomate avec un filet d'huile, sel et poivre. Badigeonner la pizza avec la pâte de tomate. Ajouter le poivron, les ananas, le bacon émietté et la mozzarella. Cuire dans le four 12-15 minutes."
+                },
+                {
+                    "ordre": 6,
+                    "titre": "Monter l'assiette",
+                    "image": "/img/pizza_hawaiienne_6.jpg",
+                    "texte": "Servir et garnir de persil. Ajuster le sel et le poivre au goût. Bon appétit!"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nom": "Tofu croustillant Tonkatsu",
+            "src": "https://chefcookit.com/recipe/tofu-croustillant-tonkatsu/",
+            "temps": "30",
+            "categorie": "vegetarien",
+            "img": "/img/tofu_tonkatsu.jpg",
+            "ingredients": [
+                {
+                    "nom": "tofu",
+                    "quantite": "300g"
+                },
+                {
+                    "nom": "oeuf liquide",
+                    "quantite": "120ml"
+                },
+                {
+                    "nom": "chapelure panko",
+                    "quantite": "120ml"
+                },
+                {
+                    "nom": "sauce tonkatsu",
+                    "quantite": "120ml"
+                },
+                {
+                    "nom": "riz basmati",
+                    "quantite": "140g"
+                },
+                {
+                    "nom": "carottes nantaises bio",
+                    "quantite": 4
+                },
+                {
+                    "nom": "bok choy shanghai",
+                    "quantite": 1
+                },
+                {
+                    "nom": "oignon(s) vert(s)",
+                    "quantite": 2
+                },
+                {
+                    "nom": "oignon(s) rouge(s)",
+                    "quantite": 0.5
+                }
+            ],
+            "outils": [
+                "poêle",
+                "casserole",
+                "bols",
+                "pinces"
+            ],
+            "etapes": [
+                {
+                    "ordre": 1,
+                    "titre": "Cuire le riz",
+                    "image": "/img/tofu_tonkatsu_1.jpg",
+                    "texte": "Amener une casserole avec 2 tasses d'eau à ébullition. Rincer le riz. Verser le riz, couvrir et cuire à feu doux 10-12 minutes."
+                },
+                {
+                    "ordre": 2,
+                    "titre": "Mise en place",
+                    "image": "/img/tofu_tonkatsu_2.jpg",
+                    "texte": "Trancher finement les carottes en rondelles. Couper le pied des bok choy Trancher finement l'oignon rouge et l'oignon vert Couper 1 tranche épaisse de tofu par personne."
+                },
+                {
+                    "ordre": 3,
+                    "titre": "Mariner l'oignon",
+                    "image": "/img/tofu_tonkatsu_3.jpg",
+                    "texte": "Mettre l'oignon dans un bol avec 1/4 tasse d'eau, 1-2 c. à s. de vinaigre de cidre ou de vin, 1 c. à s. de sucre et une pincée de sel. Laisser mariner."
+                },
+                {
+                    "ordre": 4,
+                    "titre": "Cuire les légumes",
+                    "image": "/img/tofu_tonkatsu_4.jpg",
+                    "texte": "Chauffer un filet d'huile avec 1 c. à s. de beurre dans une poêle à feu moyen-élevé. Cuire les carottes __3-4 minutes__. Saler et poivrer. Ajouter le bok choy et cuire __2 minutes__ de plus. Retirer de la poêle."
+                },
+                {
+                    "ordre": 5,
+                    "titre": "Paner et cuire le tofu",
+                    "image": "/img/tofu_tonkatsu_5.jpg",
+                    "texte": "Pendant ce temps, mettre l'oeuf dans un bol et le panko dans un autre bol. Tremper le tofu dans l'oeuf puis enrober de panko. Ajouter un filet d'huile à la poêle. Cuire les tranches de tofu 2-3 minutes de chaque coté jusqu'à coloration. Saler et poivrer. Pour ajouter une touche ludique pour les enfants, vous pouvez couper le tofu en bâtonnets avant de le paner. Au service, servez la sauce dans un petit bol pour tremper"
+                },
+                {
+                    "ordre": 6,
+                    "titre": "Monter l'assiette",
+                    "image": "/img/tofu_tonkatsu_6.jpg",
+                    "texte": "Servir le riz dans un bol avec les légumes et le tofu. Garnir avec la sauce tonkatsu et les oignons Bon appétit!"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nom": "Risotto aux champignons sauvages",
+            "src": "https://chefcookit.com/recipe/risotto-aux-champignons-sauvages",
+            "temps": "30",
+            "categorie": "mediterraneen",
+            "img": "/img/risotto.jpg",
+            "ingredients": [
+                {
+                    "nom": "fromage grana padano",
+                    "quantite": "45g"
+                },
+                {
+                    "nom": "oigon(s) vert(s)",
+                    "quantite": 2
+                },
+                {
+                    "nom": "champignons café",
+                    "quantite": "150g"
+                },
+                {
+                    "nom": "poireau(x)",
+                    "quantite": 0.5
+                },
+                {
+                    "nom": "mélange de champignons sauvages séchés",
+                    "quantite": "15g"
+                },
+                {
+                    "nom": "riz calrose",
+                    "quantite": "140g"
+                },
+                {
+                    "nom": "noisettes",
+                    "quantite": "30ml"
+                },
+                {
+                    "nom": "gousse(s) d'ail",
+                    "quantite": 1
+                },
+                {
+                    "nom": "cube de bouillon de légumes",
+                    "quantite": 1
+                }
+            ],
+            "outils": [
+                "plaque de cuisson",
+                "papier parchemin",
+                "poêle",
+                "cuillère en bois",
+                "casserole",
+                "bols"
+            ],
+            "etapes": [
+                {
+                    "ordre": 1,
+                    "titre": "Hydrater les champignons",
+                    "image": "/img/risotto_1.jpg",
+                    "texte": "Préchauffer le four à 400°F. Mettre les champignons séchés dans une casserole avec 2 tasses d'eau. Chauffer à feu moyen 6-8 minutes Retirer de la casserole avec une cuillère trouée. Mélanger l'eau de cuisson des champignons avec 3 tasses d'eau et le cube de bouillon."
+                },
+                {
+                    "ordre": 2,
+                    "titre": "Mise en place",
+                    "image": "/img/risotto_2.jpg",
+                    "texte": "Trancher finement les champignons café, le poireau et l'oignon vert. Hacher l'ail. Écraser les noisettes grossièrement."
+                },
+                {
+                    "ordre": 3,
+                    "titre": "Cuire les champignons",
+                    "image": "/img/risotto_3.jpg",
+                    "texte": "Chauffer un filet d'huile à feu moyen-élevé. Cuire les champignons café 3-4 minutes jusqu'à coloration. Saler et poivrer. Retirer de la poêle."
+                },
+                {
+                    "ordre": 4,
+                    "titre": "Cuire les chips (optionnel)",
+                    "image": "/img/risotto_4.jpg",
+                    "texte": "Tapisser une plaque de cuisson avec du papier parchemin. Déposer le Grana Padano en 2 grosses rondelles ou plusieurs petites sur la plaque. Cuire au four 5 minutes jusqu'à ce que le fromage soit doré et croustillant. Retirer du four. Réserver."
+                },
+                {
+                    "ordre": 5,
+                    "titre": "Cuire le risotto",
+                    "image": "/img/risotto_5.jpg",
+                    "texte": "Ajouter l'ail et le poireau à la poêle à feu moyen-élevé. Cuire 2 minutes. Ajouter le riz et les champignons sauvages et mélanger. Ajouter le bouillon petit à petit en mélangeant constamment jusqu'à ce que le riz soit tendre et crémeux, environ 20 minutes. Ajouter de l'eau au besoin. Ajouter l'oignon vert, les champignons café et une noisette de beurre. Cuire 1-2 minutes."
+                },
+                {
+                    "ordre": 6,
+                    "titre": "Monter l'assiette",
+                    "image": "/img/risotto_6.jpg",
+                    "texte": "Rectifier l'assaisonnement au goût. Servir le risotto avec la chip de Grana Padano et les noisettes. Sinon, servir le tout au centre de la table et laisser chacun préparer son assiette.Bon appétit!"
+                }
+            ]
+        }
+    ]
+}

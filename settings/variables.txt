@@ -1,0 +1,4 @@
+classroom_tools_url="https://github.com/ClassroomSuite/ClassroomTools"
+template_repo_fullname="LOG2440-Gabarits/tp_template"
+org_name="LOG2440"
+repo_filter="tp-template"

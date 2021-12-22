@@ -1,0 +1,52 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "extends": ["plugin:react/recommended", "airbnb", "prettier"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": ["react", "prettier"],
+  "rules": {
+    "prettier/prettier": [
+      "warn",
+      {
+        "printWidth": 120,
+        "trailingComma": "es5",
+        "jsxSingleQuote": true,
+        "singleQuote": true,
+        "endOfLine": "auto"
+      }
+    ],
+    "jsx-a11y/label-has-associated-control": [
+      "error",
+      {
+        "required": {
+          "some": ["nesting", "id"]
+        }
+      }
+    ],
+    "jsx-a11y/label-has-for": [
+      "error",
+      {
+        "required": {
+          "some": ["nesting", "id"]
+        }
+      }
+    ],
+    "react/no-unescaped-entities": 0,
+    "react/prop-types": 0,
+    "no-plusplus": 0,
+    "class-methods-use-this": 0,
+    "no-restricted-syntax": 0,
+    "no-await-in-loop": 0,
+    "consistent-return": 0,
+    "no-unused-vars": "warn",
+    "no-var": 1
+  }
+}
